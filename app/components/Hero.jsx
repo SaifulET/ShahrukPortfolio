@@ -9,14 +9,14 @@ const Hero = () => {
   return (
     <section
       id="hero"
-      className="min-h-screen flex flex-col md:flex-row items-center justify-between px-6 md:px-20 bg-[#0f2f2b] text-white"
+      className="min-h-screen pt-20 flex flex-col md:flex-row items-center justify-between px-6 md:px-20 bg-[#0f2f2b] text-white"
     >
       {/* Left Content */}
       <motion.div
         initial={{ opacity: 0, x: -50 }}
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.8 }}
-        className="pl-30  space-y-6 text-center md:text-left"
+        className="lg:pl-30  space-y-6 text-center md:text-left"
       >
         <h2 className="text-2xl md:text-3xl font-semibold">
           Hello I'm <span className="text-lime-400">Zahidul Islam</span> !
