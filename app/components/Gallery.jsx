@@ -13,9 +13,34 @@ import pic8 from "../../public/pic8.jpg";
 import pic9 from "../../public/pic9.jpg";
 import pic10 from "../../public/pic10.jpg";
 import pic11 from "../../public/pic11.jpg";
+import pic12 from "../../public/pic12.jpeg";
+import pic13 from "../../public/pic13.jpeg";
+import pic14 from "../../public/pic14.jpeg";
+import pic15 from "../../public/pic15.jpeg";
+import pic16 from "../../public/pic16.jpeg";
+import pic17 from "../../public/pic17.jpeg";
+import pic18 from "../../public/pic18.jpeg";
+import pic19 from "../../public/pic19.jpeg";
+import pic20 from "../../public/pic20.jpeg";
+
+import pic22 from "../../public/pic22.jpeg";
+import pic23 from "../../public/pic23.jpeg";
+import pic24 from "../../public/pic24.jpeg";
+import pic25 from "../../public/pic25.jpeg";
+import pic26 from "../../public/pic26.jpeg";
+import pic27 from "../../public/pic27.jpeg";
+import pic28 from "../../public/pic28.jpeg";
+import pic29 from "../../public/pic29.jpeg";
+import pic30 from "../../public/pic30.jpeg";
+import pic31 from "../../public/pic31.jpeg";
+import pic32 from "../../public/pic32.jpeg";
+import pic33 from "../../public/pic33.jpeg";
+import pic34 from "../../public/pic34.jpeg";
+
 
 const images = [
-  pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9, pic10, pic11
+  pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9, pic10, pic11,pic12, pic13, pic14, pic15, pic16, pic17, pic18, pic19, pic20,
+  pic22, pic23, pic24, pic25, pic26, pic27, pic28, pic29, pic30, pic31,pic32,pic33,pic34
 ];
 
 const Gallery = () => {

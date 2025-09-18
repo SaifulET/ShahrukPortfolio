@@ -2,8 +2,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import profilePic from "../../public/portfolio.jpg";
-import port from "../../public/port.jpg";
-// make sure to add your profile picture in public folder
+
 
 const Hero = () => {
   return (
